@@ -15,6 +15,7 @@
 
 **Currently:**  
 - BSc in [Informatics and Computing Engineering](https://sigarra.up.pt/feup/pt/cur_geral.cur_view?pv_curso_id=22841) @ [FEUP](https://www.up.pt/feup/en/) (2nd Year)
+- Monitor @ Consultório FEUP (Math, Physics, Programming)
 ---
 
 <div align="center">
@@ -46,7 +47,6 @@
 
 - 3rd Place @ MIUP 2024 (Maratona Inter-Universitária de Programação)
 - 49th Place @ ICPC SWERC 2024 (ICPC Southwestern Europe Regional Contest)
-- Monitor @ Consultório FEUP (Math, Physics, Programming)
 
 ---
 
@@ -54,7 +54,6 @@
 
 | Course | Project Name | Description | Languages/Tech | Repo/Link | Grade (if available) |
 |--------|--------------|-------------|----------------|-----------|----------------------|
-|        |              |             |                |           |                      |
 |        |              |             |                |           |                      |
 
 ---
@@ -64,11 +63,10 @@
 | Name | Short Description | Tech Stack | Demo/Link | Repo |
 |------|-------------------|------------|-----------|------|
 |      |                   |            |           |      |
-|      |                   |            |           |      |
 
 ---
 
-## 🎓 Courses & Challenges
+## 🎓 Courses
 
 | Course | Platform | Project | Key Skills | Certificate |
 |--------|----------|---------|------------|-------------|
