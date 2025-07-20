@@ -6,6 +6,7 @@
     <a href="https://leetcode.com/u/LuisGoncalves05/">LeetCode</a> | 
     <a href="https://codeforces.com/profile/luisg05">Codeforces</a> |
     <a href="https://www.linkedin.com/in/lu%C3%ADs-gon%C3%A7alves-32620b306/">LinkedIn</a>
+    <a href="https://code.golf/golfers/LuisGoncalves05">CodeGolf</a>
   </h3>
   <h5>"If life gives you potatoes... rejoice."</h5>
   <img src="https://komarev.com/ghpvc/?username=LuisGoncalves05&color=blue&style=for-the-badge" alt="profile views"/>
@@ -45,16 +46,23 @@
 
 ## 🏆 Achievements
 
-- 3rd Place @ MIUP 2024 (Maratona Inter-Universitária de Programação)
+- 4th Place @ MIUP 2024 (Maratona Inter-Universitária de Programação)
 - 49th Place @ ICPC SWERC 2024 (ICPC Southwestern Europe Regional Contest)
 
 ---
 
 ## 📚 University Projects
 
-| Course | Project Name | Description | Languages/Tech | Repo/Link | Grade (if available) |
-|--------|--------------|-------------|----------------|-----------|----------------------|
-|        |              |             |                |           |                      |
+| Course | Project Name | Language(s) | Grade |
+|--------|--------------|-------------|-------|
+| Programming | [Svg2Png](https://github.com/LuisGoncalves05/Svg2Png) | C++ | 20.0 |
+| Databases | [Minituck](https://github.com/LuisGoncalves05/Minituck) | SQLite | 19.4 |
+| LDTS | [Minidash](https://github.com/LuisGoncalves05/Minidash) | Java | 19.0 |
+| DA | [Dijkstra](https://github.com/LuisGoncalves05/Dijkstra) | C++ | 19.0 |
+| DA | [Knapsack](https://github.com/LuisGoncalves05/Knapsack) | C++ | 19.8 |
+| ES | [HelpingHands](https://github.com/LuisGoncalves05/HelpingHands) | Flutter | 20.0 |
+| LCOM | [LostCurseOfMadness](https://github.com/LuisGoncalves05/LostCurseOfMadness)| C | 17.0 |
+| LTW | [Minidash](https://github.com/LuisGoncalves05/Minidash) | PHP/HTML/CSS/JavaScript | 18.5 |
 
 ---
 
@@ -70,10 +78,10 @@
 
 | Course | Platform | Project | Key Skills | Certificate |
 |--------|----------|---------|------------|-------------|
-| CS50X | edX/Harvard | BotMania | AI | |
-| CS50P | edX/Harvard | [RISConVerter](https://github.com/LuisGoncalves05/RISConVerter) | Python/ASM | [CS50P.pdf](https://github.com/user-attachments/files/20969448/CS50P.pdf) |
+| CS50X  | edX/Harvard | BotMania | AI/Haskell | [CS50X.pdf](https://github.com/user-attachments/files/20969448/CS50X.pdf) |
+| CS50P  | edX/Harvard | [RISConVerter](https://github.com/LuisGoncalves05/RISConVerter) | Python/ASM | [CS50P.pdf](https://github.com/user-attachments/files/20969448/CS50P.pdf) |
 | CS50Cy | edX/Harvard | [RansomHub](https://youtu.be/itOPLXpsT0I) | Ransomware | [CS50Cy.pdf](https://github.com/user-attachments/files/20969450/CS50Cy.pdf) |
-| CS50T | edX/Harvard | [Shoot](https://scratch.mit.edu/projects/872237616/) | Scratch | [CS50T.pdf](https://github.com/user-attachments/files/20969447/CS50T.pdf) |
+| CS50T  | edX/Harvard | [Shoot](https://scratch.mit.edu/projects/872237616/) | Scratch | [CS50T.pdf](https://github.com/user-attachments/files/20969447/CS50T.pdf) |
 
 ---
 
