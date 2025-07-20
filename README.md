@@ -5,7 +5,7 @@
     <a href="https://luisgoncalves05.github.io">Website</a> |
     <a href="https://leetcode.com/u/LuisGoncalves05/">LeetCode</a> | 
     <a href="https://codeforces.com/profile/luisg05">Codeforces</a> |
-    <a href="https://www.linkedin.com/in/lu%C3%ADs-gon%C3%A7alves-32620b306/">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/lu%C3%ADs-gon%C3%A7alves-32620b306/">LinkedIn</a> |
     <a href="https://code.golf/golfers/LuisGoncalves05">CodeGolf</a>
   </h3>
   <h5>"If life gives you potatoes... rejoice."</h5>
