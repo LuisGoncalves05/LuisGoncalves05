@@ -55,14 +55,14 @@
 
 | Course | Project Name | Language(s) | Grade |
 |--------|--------------|-------------|-------|
-| Programming | [Svg2Png](https://github.com/LuisGoncalves05/Svg2Png) | C++ | 20.0 |
-| Databases | [Minituck](https://github.com/LuisGoncalves05/Minituck) | SQLite | 19.4 |
-| LDTS | [Minidash](https://github.com/LuisGoncalves05/Minidash) | Java | 19.0 |
-| DA | [Dijkstra](https://github.com/LuisGoncalves05/Dijkstra) | C++ | 19.0 |
-| DA | [Knapsack](https://github.com/LuisGoncalves05/Knapsack) | C++ | 19.8 |
-| ES | [HelpingHands](https://github.com/LuisGoncalves05/HelpingHands) | Flutter | 20.0 |
-| LCOM | [LostCurseOfMadness](https://github.com/LuisGoncalves05/LostCurseOfMadness)| C | 17.0 |
-| LTW | [Minidash](https://github.com/LuisGoncalves05/Minidash) | PHP/HTML/CSS/JavaScript | 18.5 |
+| [P](https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=521970) | [Svg2Png](https://github.com/LuisGoncalves05/Svg2Png) | C++ | 20.0 |
+| [BD](https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=541877) | [Minituck](https://github.com/LuisGoncalves05/Minituck) | SQLite | 19.4 |
+| [LDTS](https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=541884) | [Minidash](https://github.com/LuisGoncalves05/Minidash) | Java | 19.0 |
+| [DA](https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=541881) | [Dijkstra](https://github.com/LuisGoncalves05/Dijkstra) | C++ | 19.0 |
+| [DA](https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=541881) | [Knapsack](https://github.com/LuisGoncalves05/Knapsack) | C++ | 19.8 |
+| [ES](https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=541882) | [HelpingHands](https://github.com/LuisGoncalves05/HelpingHands) | Flutter | 20.0 |
+| [LCOM](https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=541883) | [LostCurseOfMadness](https://github.com/LuisGoncalves05/LostCurseOfMadness)| C | 17.0 |
+| [LTW](https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=541884) | [Minidash](https://github.com/LuisGoncalves05/Minidash) | PHP/HTML/CSS/JavaScript | 18.5 |
 
 ---
 
