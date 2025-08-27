@@ -79,6 +79,7 @@
 | Course | Platform | Project | Key Skills | Certificate |
 |--------|----------|---------|------------|-------------|
 | CS50X  | edX/Harvard | [BotMania](https://github.com/LuisGoncalves05/BotMania) | AI/Haskell | [CS50X.pdf](https://github.com/user-attachments/files/20969448/CS50X.pdf) |
+| CS50AI | edX/Harvard | - | AI |[CS50AI.pdf](https://github.com/user-attachments/files/22005290/CS50AI.pdf)
 | CS50P  | edX/Harvard | [RISConVerter](https://github.com/LuisGoncalves05/RISConVerter) | Python/ASM | [CS50P.pdf](https://github.com/user-attachments/files/20969448/CS50P.pdf) |
 | CS50Cy | edX/Harvard | [RansomHub](https://youtu.be/itOPLXpsT0I) | Ransomware | [CS50Cy.pdf](https://github.com/user-attachments/files/20969450/CS50Cy.pdf) |
 | CS50T  | edX/Harvard | [Shoot](https://scratch.mit.edu/projects/872237616/) | Scratch | [CS50T.pdf](https://github.com/user-attachments/files/20969447/CS50T.pdf) |
