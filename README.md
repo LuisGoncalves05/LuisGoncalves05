@@ -69,7 +69,7 @@
 ## 🚀 Personal Projects
 
 | Name | Short Description | Tech Stack | Demo/Link |
-|------|-------------------|------------|-----------|------|
+|------|-------------------|------------|-----------|
 | [Forest](https://github.com/LuisGoncalves05/Forest) | Lots of Trees | C++ | - |
 
 ---
