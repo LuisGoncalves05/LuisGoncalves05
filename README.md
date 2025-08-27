@@ -15,7 +15,7 @@
 ---
 
 **Currently:**  
-- BSc in [Informatics and Computing Engineering](https://sigarra.up.pt/feup/pt/cur_geral.cur_view?pv_curso_id=22841) @ [FEUP](https://www.up.pt/feup/en/) (2nd Year)
+- BSc in [Informatics and Computing Engineering](https://sigarra.up.pt/feup/pt/cur_geral.cur_view?pv_curso_id=22841) @ [FEUP](https://www.up.pt/feup/en/) (3nd Year)
 - Monitor @ Consultório FEUP (Math, Physics, Programming)
 ---
 
@@ -68,9 +68,9 @@
 
 ## 🚀 Personal Projects
 
-| Name | Short Description | Tech Stack | Demo/Link | Repo |
+| Name | Short Description | Tech Stack | Demo/Link |
 |------|-------------------|------------|-----------|------|
-|      |                   |            |           |      |
+| [Forest] (https://github.com/LuisGoncalves05/Forest) | Lots of Trees | C++ | - |
 
 ---
 
