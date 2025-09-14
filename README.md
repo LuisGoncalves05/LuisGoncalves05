@@ -26,7 +26,7 @@
 
 ---
 
-## 💻 Skills
+## Skills
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
@@ -44,14 +44,14 @@
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
 - 4th Place @ MIUP 2024 (Maratona Inter-Universitária de Programação)
 - 49th Place @ ICPC SWERC 2024 (ICPC Southwestern Europe Regional Contest)
 
 ---
 
-## 📚 University Projects
+## University Projects
 
 | Course | Project Name | Language(s) | Grade |
 |--------|--------------|-------------|-------|
@@ -66,15 +66,15 @@
 
 ---
 
-## 🚀 Personal Projects
+## Personal Projects
 
-| Name | Short Description | Tech Stack | Demo/Link |
-|------|-------------------|------------|-----------|
+| Name | Short Description | Tech Stack |
+|------|-------------------|------------|
 | [Forest](https://github.com/LuisGoncalves05/Forest) | Lots of Trees | C++ | - |
 
 ---
 
-## 🎓 Courses
+## Courses
 
 | Course | Platform | Project | Key Skills | Certificate |
 |--------|----------|---------|------------|-------------|
