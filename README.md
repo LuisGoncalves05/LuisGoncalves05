@@ -9,7 +9,6 @@
     <a href="https://www.linkedin.com/in/lu%C3%ADs-gon%C3%A7alves-32620b306/">LinkedIn</a>
   </h3>
   <h5>"If life gives you potatoes... rejoice."</h5>
-  <img src="https://komarev.com/ghpvc/?username=LuisGoncalves05&color=blue&style=for-the-badge" alt="profile views"/>
 </div>
 
 ---
@@ -26,30 +25,12 @@
 
 ---
 
-## Skills
+## Personal Projects
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-333333?style=flat&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-</p>
+| Name | Short Description | Tech Stack |
+|------|-------------------|------------|
+| [Forest](https://github.com/LuisGoncalves05/Forest) | Lots of Trees | C++ |
 
----
-
-## Achievements
-
-- 4th Place @ MIUP 2024 (Maratona Inter-Universitária de Programação)
-- 49th Place @ ICPC SWERC 2024 (ICPC Southwestern Europe Regional Contest)
-
----
 
 ## University Projects
 
@@ -63,14 +44,6 @@
 | [ES](https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=541882) | [HelpingHands](https://github.com/LuisGoncalves05/HelpingHands) | Flutter | 20.0 |
 | [LCOM](https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=541883) | [LostCurseOfMadness](https://github.com/LuisGoncalves05/LostCurseOfMadness)| C | 17.0 |
 | [LTW](https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=541884) | [SuperTasker](https://github.com/LuisGoncalves05/SuperTasker) | PHP/HTML/CSS/JavaScript | 18.5 |
-
----
-
-## Personal Projects
-
-| Name | Short Description | Tech Stack |
-|------|-------------------|------------|
-| [Forest](https://github.com/LuisGoncalves05/Forest) | Lots of Trees | C++ | - |
 
 ---
 
@@ -90,5 +63,4 @@
   <h3>
     <a href="mailto:lumicosgon.lg@gmail.com">Contact me!</a>
   </h3>
-  <img src="https://hit.yhype.me/github/profile?user_id=72668966" alt="profile counter"/>
 </div>
