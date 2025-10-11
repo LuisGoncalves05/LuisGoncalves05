@@ -2,11 +2,11 @@
   <img src="https://github.com/user-attachments/assets/4d38f57a-6e1e-4de1-9894-2adbde245fc6" width="30px">
   <h2>Hi, I'm Luís Gonçalves</h2>
   <h3>
-    <a href="https://luisgoncalves05.github.io">Website</a> |
-    <a href="https://leetcode.com/u/LuisGoncalves05/">LeetCode</a> | 
+    <a href="https://www.linkedin.com/in/lu%C3%ADs-gon%C3%A7alves-32620b306/">LinkedIn</a> |
+    <!-- <a href="https://luisgoncalves05.github.io">Website</a> | -->
     <a href="https://codeforces.com/profile/luisg05">Codeforces</a> |
-    <a href="https://code.golf/golfers/LuisGoncalves05">CodeGolf</a> |
-    <a href="https://www.linkedin.com/in/lu%C3%ADs-gon%C3%A7alves-32620b306/">LinkedIn</a>
+    <a href="https://leetcode.com/u/LuisGoncalves05/">LeetCode</a> | 
+    <a href="https://code.golf/golfers/LuisGoncalves05">CodeGolf</a>
   </h3>
   <h5>"If life gives you potatoes... rejoice."</h5>
 </div>
@@ -15,12 +15,11 @@
 
 **Currently:**  
 - BSc in [Informatics and Computing Engineering](https://sigarra.up.pt/feup/pt/cur_geral.cur_view?pv_curso_id=22841) @ [FEUP](https://www.up.pt/feup/en/) (3rd Year)
-- Monitor @ Consultório FEUP (Math, Physics, Programming)
+- Monitor @ Clínica da L.EIC
 ---
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisGoncalves05&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisGoncalves05&layout=compact&langs_count=7&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisGoncalves05&layout=compact&langs_count=8&theme=radical&hide=tex,html,css,makefile,cmake"/>
 </div>
 
 ---
@@ -51,11 +50,11 @@
 
 | Course | Platform | Project | Key Skills | Certificate |
 |--------|----------|---------|------------|-------------|
-| CS50X  | edX/Harvard | [BotMania](https://github.com/LuisGoncalves05/BotMania) | AI/Haskell | [CS50X.pdf](https://github.com/user-attachments/files/20969448/CS50X.pdf) |
 | CS50AI | edX/Harvard | - | AI |[CS50AI.pdf](https://github.com/user-attachments/files/22005290/CS50AI.pdf)
 | CS50P  | edX/Harvard | [RISConVerter](https://github.com/LuisGoncalves05/RISConVerter) | Python/ASM | [CS50P.pdf](https://github.com/user-attachments/files/20969448/CS50P.pdf) |
 | CS50Cy | edX/Harvard | [RansomHub](https://youtu.be/itOPLXpsT0I) | Ransomware | [CS50Cy.pdf](https://github.com/user-attachments/files/20969450/CS50Cy.pdf) |
 | CS50T  | edX/Harvard | [Shoot](https://scratch.mit.edu/projects/872237616/) | Scratch | [CS50T.pdf](https://github.com/user-attachments/files/20969447/CS50T.pdf) |
+<!-- | CS50X  | edX/Harvard | [BotMania](https://github.com/LuisGoncalves05/BotMania) | AI/Haskell | [CS50X.pdf](https://github.com/user-attachments/files/20969448/CS50X.pdf) | -->
 
 ---
 
