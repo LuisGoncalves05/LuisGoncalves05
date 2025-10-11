@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/4d38f57a-6e1e-4de1-9894-2adbde245fc6" width="30px">
   <h2>Hi, I'm Luís Gonçalves</h2>
+  
   <h3>
     <a href="https://www.linkedin.com/in/lu%C3%ADs-gon%C3%A7alves-32620b306/">LinkedIn</a> |
     <!-- <a href="https://luisgoncalves05.github.io">Website</a> | -->
@@ -8,7 +8,10 @@
     <a href="https://leetcode.com/u/LuisGoncalves05/">LeetCode</a> | 
     <a href="https://code.golf/golfers/LuisGoncalves05">CodeGolf</a>
   </h3>
+
   <h5>"If life gives you potatoes... rejoice."</h5>
+  <img src="https://github.com/user-attachments/assets/856f665a-ed52-4090-a27a-ac7ed86fb969" width="20px" margin="0">
+  
 </div>
 
 ---
@@ -16,6 +19,7 @@
 **Currently:**  
 - BSc in [Informatics and Computing Engineering](https://sigarra.up.pt/feup/pt/cur_geral.cur_view?pv_curso_id=22841) @ [FEUP](https://www.up.pt/feup/en/) (3rd Year)
 - Monitor @ Clínica da L.EIC
+
 ---
 
 <div align="center">
@@ -40,9 +44,9 @@
 | [LDTS](https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=541879) | [Minidash](https://github.com/LuisGoncalves05/Minidash) | Java | 19.0 |
 | [DA](https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=541881) | [Dijkstra](https://github.com/LuisGoncalves05/Dijkstra) | C++ | 19.0 |
 | [DA](https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=541881) | [Knapsack](https://github.com/LuisGoncalves05/Knapsack) | C++ | 19.8 |
-| [ES](https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=541882) | [HelpingHands](https://github.com/LuisGoncalves05/HelpingHands) | Flutter | 20.0 |
 | [LCOM](https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=541883) | [LostCurseOfMadness](https://github.com/LuisGoncalves05/LostCurseOfMadness)| C | 17.0 |
 | [LTW](https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=541884) | [SuperTasker](https://github.com/LuisGoncalves05/SuperTasker) | PHP/HTML/CSS/JavaScript | 18.5 |
+<!-- [ES](https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=541882) | [HelpingHands](https://github.com/LuisGoncalves05/HelpingHands) | Flutter | 20.0 | -->
 
 ---
 
@@ -59,7 +63,5 @@
 ---
 
 <div align="center">
-  <h3>
-    <a href="mailto:lumicosgon.lg@gmail.com">Contact me!</a>
-  </h3>
+  <h3><a href="mailto:lumicosgon.lg@gmail.com">Contact me!</a></h3>
 </div>
