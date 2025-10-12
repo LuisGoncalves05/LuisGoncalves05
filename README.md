@@ -32,7 +32,7 @@
 
 | Name | Short Description | Tech Stack |
 |------|-------------------|------------|
-| [Forest](https://github.com/LuisGoncalves05/Forest) | Lots of Trees | C++ |
+| [Forest](https://github.com/LuisGoncalves05/Forest) | Lots of Trees | C++/GoogleTest |
 
 
 ## University Projects
