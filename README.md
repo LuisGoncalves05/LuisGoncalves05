@@ -46,10 +46,10 @@
 | [DA](https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=541881) | [Knapsack](https://github.com/LuisGoncalves05/Knapsack) | C++ | 19.8 |
 | [LCOM](https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=541883) | [LostCurseOfMadness](https://github.com/LuisGoncalves05/LostCurseOfMadness)| C | 17.0 |
 | [LTW](https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=541884) | [SuperTasker](https://github.com/LuisGoncalves05/SuperTasker) | PHP/HTML/CSS/JavaScript | 18.5 |
-<!-- [ES](https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=541882) | [HelpingHands](https://github.com/LuisGoncalves05/HelpingHands) | Flutter | 20.0 | -->
-[RC](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=560110) | [DataLinkLayer](https://github.com/LuisGoncalves05/DataLinkLayer) | C | - |
-<!-- [RC](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=560110) | [FTP](https://github.com/LuisGoncalves05/FTP) | C | - | -->
-[PFL](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=560109) | [Haskulator](https://github.com/LuisGoncalves05/Haskulator) | Haskell | - |
+<!-- | [ES](https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=541882) | [HelpingHands](https://github.com/LuisGoncalves05/HelpingHands) | Flutter | 20.0 | -->
+| [RC](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=560110) | [DataLinkLayer](https://github.com/LuisGoncalves05/DataLinkLayer) | C | - |
+<!-- | [RC](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=560110) | [FTP](https://github.com/LuisGoncalves05/FTP) | C | - | -->
+| [PFL](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=560109) | [Haskulator](https://github.com/LuisGoncalves05/Haskulator) | Haskell | - |
 <!--| [LBAW](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=560108) | [Timely](https://github.com/LuisGoncalves05/Timely) | PHP(Laravel)/PostgreSQL/HTML/CSS/JavaScript | - | -->
 
 ---
