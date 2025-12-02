@@ -2,11 +2,11 @@
   <h2>Hi, I'm Luís Gonçalves</h2>
   
   <h3>
-    <a href="https://www.linkedin.com/in/lu%C3%ADs-gon%C3%A7alves-32620b306/">LinkedIn</a> |
     <!-- <a href="https://luisgoncalves05.github.io">Website</a> | -->
+    <a href="https://www.linkedin.com/in/lu%C3%ADs-gon%C3%A7alves-32620b306/">LinkedIn</a> |
     <a href="https://codeforces.com/profile/luisg05">Codeforces</a> |
     <a href="https://leetcode.com/u/LuisGoncalves05/">LeetCode</a> | 
-    <a href="https://code.golf/golfers/LuisGoncalves05">CodeGolf</a>
+    <!-- <a href="https://code.golf/golfers/LuisGoncalves05">CodeGolf</a> -->
   </h3>
 
   <h5>"If life gives you potatoes... rejoice."</h5>
@@ -33,7 +33,7 @@
 | Name | Short Description | Tech Stack |
 |------|-------------------|------------|
 | [Forest](https://github.com/LuisGoncalves05/Forest) | Lots of Trees | C++/GoogleTest |
-
+<!-- | [BotMania](https://github.com/LuisGoncalves05/BotMania) | Learn by making bots | Laravel/Haskell/C/C++ --> 
 
 ## University Projects
 
@@ -47,6 +47,10 @@
 | [LCOM](https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=541883) | [LostCurseOfMadness](https://github.com/LuisGoncalves05/LostCurseOfMadness)| C | 17.0 |
 | [LTW](https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=541884) | [SuperTasker](https://github.com/LuisGoncalves05/SuperTasker) | PHP/HTML/CSS/JavaScript | 18.5 |
 <!-- [ES](https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=541882) | [HelpingHands](https://github.com/LuisGoncalves05/HelpingHands) | Flutter | 20.0 | -->
+[RC](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=560110) | [DataLinkLayer](https://github.com/LuisGoncalves05/DataLinkLayer) | C | - |
+<!-- [RC](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=560110) | [FTP](https://github.com/LuisGoncalves05/FTP) | C | - | -->
+[PFL](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=560109) | [Haskulator](https://github.com/LuisGoncalves05/Haskulator) | Haskell | - |
+<!--| [LBAW](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=560108) | [Timely](https://github.com/LuisGoncalves05/Timely) | PHP(Laravel)/PostgreSQL/HTML/CSS/JavaScript | - | -->
 
 ---
 
@@ -58,7 +62,7 @@
 | CS50P  | edX/Harvard | [RISConVerter](https://github.com/LuisGoncalves05/RISConVerter) | Python/ASM | [CS50P.pdf](https://github.com/user-attachments/files/20969448/CS50P.pdf) |
 | CS50Cy | edX/Harvard | [RansomHub](https://youtu.be/itOPLXpsT0I) | Ransomware | [CS50Cy.pdf](https://github.com/user-attachments/files/20969450/CS50Cy.pdf) |
 | CS50T  | edX/Harvard | [Shoot](https://scratch.mit.edu/projects/872237616/) | Scratch | [CS50T.pdf](https://github.com/user-attachments/files/20969447/CS50T.pdf) |
-<!-- | CS50X  | edX/Harvard | [BotMania](https://github.com/LuisGoncalves05/BotMania) | AI/Haskell | [CS50X.pdf](https://github.com/user-attachments/files/20969448/CS50X.pdf) | -->
+<!-- | CS50X  | edX/Harvard | [BotMania](https://github.com/LuisGoncalves05/BotMania) | AI | [CS50X.pdf](https://github.com/user-attachments/files/20969448/CS50X.pdf) | -->
 
 ---
 
