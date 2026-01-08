@@ -24,7 +24,8 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats-rouge-beta.vercel.app/api/top-langs/?username=LuisGoncalves05&layout=compact&langs_count=8&theme=transparent&hide=tex,html,css,makefile,cmake,dart"/>
+  <img src="https://github-readme-stats-rouge-beta.vercel.app/api?username=LuisGoncalves05&theme=transparent&hide_border=true">
+  <img src="https://github-readme-stats-rouge-beta.vercel.app/api/top-langs/?username=LuisGoncalves05&layout=compact&langs_count=8&theme=transparent&hide=tex,html,css,makefile,cmake,dart&hide_border=true"/>
 </div>
 
 ---
