@@ -24,7 +24,7 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisGoncalves05&layout=compact&langs_count=8&theme=transparent&hide=tex,html,css,makefile,cmake"/>
+  <img src="https://github-readme-stats-rouge-beta.vercel.app/api/top-langs/?username=LuisGoncalves05&layout=compact&langs_count=8&theme=transparent&hide=tex,html,css,makefile,cmake,dart"/>
 </div>
 
 ---
