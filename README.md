@@ -47,9 +47,9 @@
 | [DA](https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=541881) | [Knapsack](https://github.com/LuisGoncalves05/Knapsack) | C++ | 19.8 |
 | [LCOM](https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=541883) | [LostCurseOfMadness](https://github.com/LuisGoncalves05/LostCurseOfMadness)| C | 17.0 |
 | [LTW](https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=541884) | [SuperTasker](https://github.com/LuisGoncalves05/SuperTasker) | PHP/HTML/CSS/JavaScript | 18.5 |
-| [PFL](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=560109) | [Haskulator](https://github.com/LuisGoncalves05/Haskulator) | Haskell | - |
-| [RC](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=560110) | [DataLinkProtocol](https://github.com/LuisGoncalves05/DataLinkProtocol) | C | - |
-| [RC](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=560110) | [FTP](https://github.com/LuisGoncalves05/FTP) | C | - | -->
+| [PFL](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=560109) | [Haskulator](https://github.com/LuisGoncalves05/Haskulator) | Haskell | 20.0 |
+| [RC](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=560110) | [DataLinkProtocol](https://github.com/LuisGoncalves05/DataLinkProtocol) | C | 19.3 |
+| [RC](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=560110) | [FTP](https://github.com/LuisGoncalves05/FTP) | C | 18.2 | -->
 <!-- | [ES](https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=541882) | [HelpingHands](https://github.com/LuisGoncalves05/HelpingHands) | Flutter | 20.0 | -->
 <!-- | [LBAW](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=560108) | [Timely](https://github.com/LuisGoncalves05/Timely) | PHP(Laravel)/PostgreSQL/HTML/CSS/JavaScript | - | -->
 
@@ -64,9 +64,3 @@
 | CS50Cy | edX/Harvard | [RansomHub](https://youtu.be/itOPLXpsT0I) | Ransomware | [CS50Cy.pdf](https://github.com/user-attachments/files/20969450/CS50Cy.pdf) |
 | CS50T  | edX/Harvard | [Shoot](https://scratch.mit.edu/projects/872237616/) | Scratch | [CS50T.pdf](https://github.com/user-attachments/files/20969447/CS50T.pdf) |
 <!-- | CS50X  | edX/Harvard | [BotMania](https://github.com/LuisGoncalves05/BotMania) | AI | [CS50X.pdf](https://github.com/user-attachments/files/20969448/CS50X.pdf) | -->
-
----
-
-<div align="center">
-  <h3><a href="mailto:lumicosgon.lg@gmail.com">Contact me!</a></h3>
-</div>
