@@ -45,7 +45,7 @@
 | [LDTS](https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=541879) | [Minidash](https://github.com/LuisGoncalves05/Minidash) | Java | 19.0 |
 | [DA](https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=541881) | [Dijkstra](https://github.com/LuisGoncalves05/Dijkstra) | C++ | 19.0 |
 | [DA](https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=541881) | [Knapsack](https://github.com/LuisGoncalves05/Knapsack) | C++ | 19.8 |
-| [LCOM](https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=541883) | [LostCurseOfMadness](https://github.com/LuisGoncalves05/LostCurseOfMadness)| C | 17.0 |
+| [LC](https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=541883) | [LostCurseOfMadness](https://github.com/LuisGoncalves05/LostCurseOfMadness)| C | 17.0 |
 | [LTW](https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=541884) | [SuperTasker](https://github.com/LuisGoncalves05/SuperTasker) | PHP/HTML/CSS/JavaScript | 18.5 |
 | [PFL](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=560109) | [Haskulator](https://github.com/LuisGoncalves05/Haskulator) | Haskell | 20.0 |
 | [RC](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=560110) | [DataLinkProtocol](https://github.com/LuisGoncalves05/DataLinkProtocol) | C | 19.3 |
