@@ -49,6 +49,7 @@
 | [LC](https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=541883) | [LostCurseOfMadness](https://github.com/LuisGoncalves05/LostCurseOfMadness)| C | 17.0 |
 | [LTW](https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=541884) | [SuperTasker](https://github.com/LuisGoncalves05/SuperTasker) | PHP/HTML/CSS/JavaScript | 18.5 |
 | [PFL](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=560109) | [Haskulator](https://github.com/LuisGoncalves05/Haskulator) | Haskell | 20.0 |
+| [PFL](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=560109) | [Uluru](https://github.com/LuisGoncalves05/Haskulator) | Prolog | - |
 | [RC](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=560110) | [DataLinkProtocol](https://github.com/LuisGoncalves05/DataLinkProtocol) | C | 19.3 |
 | [RC](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=560110) | [FTP](https://github.com/LuisGoncalves05/FTP) | C | 18.2 | -->
 <!-- | [ES](https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=541882) | [HelpingHands](https://github.com/LuisGoncalves05/HelpingHands) | Flutter | 20.0 | -->
