@@ -46,14 +46,20 @@
 | [DA](https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=541881) | [Dijkstra](https://github.com/LuisGoncalves05/Dijkstra) | C++ | 19.0 |
 | [DA](https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=541881) | [Knapsack](https://github.com/LuisGoncalves05/Knapsack) | C++ | 19.8 |
 | [LC](https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=541883) | [LostCurseOfMadness](https://github.com/LuisGoncalves05/LostCurseOfMadness)| C | 17.0 |
-| [LTW](https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=541884) | [SuperTasker](https://github.com/LuisGoncalves05/SuperTasker) | PHP/HTML/CSS/JavaScript | 18.5 |
+| [LTW](https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=541884) | [SuperTasker](https://github.com/LuisGoncalves05/SuperTasker) | PHP/WebTrio | 18.5 |
 | [PFL](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=560109) | [Haskulator](https://github.com/LuisGoncalves05/Haskulator) | Haskell | 20.0 |
 | [PFL](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=560109) | [Uluru](https://github.com/LuisGoncalves05/Uluru) | Prolog | 18.0 |
 | [RC](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=560110) | [DataLinkProtocol](https://github.com/LuisGoncalves05/DataLinkProtocol) | C | 19.3 |
 | [RC](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=560110) | [FTP](https://github.com/LuisGoncalves05/FTP) | C | 18.2 | -->
-| [LBAW](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=560108) | [Timely](https://github.com/LuisGoncalves05/Timely) | PHP(Laravel)/PostgreSQL/HTML/CSS/JavaScript | 18.8 | 
+| [LBAW](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=560108) | [Timely](https://github.com/LuisGoncalves05/Timely) | PHP(Laravel)/PostgreSQL/WebTrio | 18.8 | 
 | [FSI](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=560106) | [SeedLabs](https://github.com/LuisGoncalves05/SeedLabs) | C/Python | 20.0 |
+| [CPD](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=560113) | [Matrix-Multiplication](https://github.com/LuisGoncalves05/Matrix-Multiplication) | C++/Java | 20.0 |
+| [CPD](https://sigarra.up.pt/feup/pt/ucurr_geral.FICHA_UC_VIEW?pv_ocorrencia_id=560113) | [Chatroom](https://github.com/LuisGoncalves05/Chatroom) | Java | ? |
+| [IA](https://sigarra.up.pt/feup/pt/ucurr_geral.FICHA_UC_VIEW?pv_ocorrencia_id=560114) | [Slideshow](https://github.com/LuisGoncalves05/Slideshow) | Python | 19.9 |
+| [CGRA](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=560112) | [Casteloes-Simulator-2026](https://github.com/LuisGoncalves05/Casteloes-Simulator-2026) | JavaScript | ? |
+<!-- | [COMP](https://sigarra.up.pt/feup/pt/ucurr_geral.FICHA_UC_VIEW?pv_ocorrencia_id=541882) | [HelpingHands](https://github.com/LuisGoncalves05/HelpingHands) | Java | ? | -->
 <!-- | [ES](https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=541882) | [HelpingHands](https://github.com/LuisGoncalves05/HelpingHands) | Flutter | 20.0 | -->
+
 ---
 
 ## Courses
