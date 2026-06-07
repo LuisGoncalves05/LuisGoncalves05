@@ -57,7 +57,7 @@
 | [CPD](https://sigarra.up.pt/feup/pt/ucurr_geral.FICHA_UC_VIEW?pv_ocorrencia_id=560113) | [Chatroom](https://github.com/LuisGoncalves05/Chatroom) | Java | ? |
 | [IA](https://sigarra.up.pt/feup/pt/ucurr_geral.FICHA_UC_VIEW?pv_ocorrencia_id=560114) | [Slideshow](https://github.com/LuisGoncalves05/Slideshow) | Python | 19.9 |
 | [CGRA](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=560112) | [Casteloes-Simulator-2026](https://github.com/LuisGoncalves05/Casteloes-Simulator-2026) | JavaScript | ? |
-<!-- | [COMP](https://sigarra.up.pt/feup/pt/ucurr_geral.FICHA_UC_VIEW?pv_ocorrencia_id=541882) | [HelpingHands](https://github.com/LuisGoncalves05/HelpingHands) | Java | ? | -->
+| [COMP](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=560111) | [Jmm-Compiler](https://github.com/LuisGoncalves05/Jmm-Compiler) | Java | ? | -->
 <!-- | [ES](https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=541882) | [HelpingHands](https://github.com/LuisGoncalves05/HelpingHands) | Flutter | 20.0 | -->
 
 ---
