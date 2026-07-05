@@ -54,10 +54,10 @@
 | [LBAW](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=560108) | [Timely](https://github.com/LuisGoncalves05/Timely) | PHP(Laravel)/PostgreSQL/WebTrio | 18.8 | 
 | [FSI](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=560106) | [SeedLabs](https://github.com/LuisGoncalves05/SeedLabs) | C/Python | 20.0 |
 | [CPD](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=560113) | [Matrix-Multiplication](https://github.com/LuisGoncalves05/Matrix-Multiplication) | C++/Java | 20.0 |
-| [CPD](https://sigarra.up.pt/feup/pt/ucurr_geral.FICHA_UC_VIEW?pv_ocorrencia_id=560113) | [Chatroom](https://github.com/LuisGoncalves05/Chatroom) | Java | ? |
+| [CPD](https://sigarra.up.pt/feup/pt/ucurr_geral.FICHA_UC_VIEW?pv_ocorrencia_id=560113) | [Chatroom](https://github.com/LuisGoncalves05/Chatroom) | Java | 20.0 |
 | [IA](https://sigarra.up.pt/feup/pt/ucurr_geral.FICHA_UC_VIEW?pv_ocorrencia_id=560114) | [Slideshow](https://github.com/LuisGoncalves05/Slideshow) | Python | 19.9 |
-| [CG](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=560112) | [Casteloes-Simulator-2026](https://github.com/LuisGoncalves05/Casteloes-Simulator-2026) | JavaScript | ? |
-| [C](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=560111) | [Jmm-Compiler](https://github.com/LuisGoncalves05/Jmm-Compiler) | Java | ? | -->
+| [CG](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=560112) | [Casteloes-Simulator-2026](https://github.com/LuisGoncalves05/Casteloes-Simulator-2026) | JavaScript | 19.7 |
+| [C](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=560111) | [Jmm-Compiler](https://github.com/LuisGoncalves05/Jmm-Compiler) | Java | 19.92 | -->
 <!-- | [ES](https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=541882) | [HelpingHands](https://github.com/LuisGoncalves05/HelpingHands) | Flutter | 20.0 | -->
 
 ---
